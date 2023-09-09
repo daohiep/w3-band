@@ -1,0 +1,69 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* 
+Dat cac cau hoi sau de biet lam gi
+1. vi tri
+2. kich thuoc
+3. mau sac
+4. kieu dang (kieu chu, hinh
+
+Làm tu tren xuong duoi
+từ ngoài vao trong
+tu tong quan den chi tiet
+*/
+
+#main {
+    
+}
+
+#header {
+    height: 46px;
+    background-color: #000;
+    
+}
+
+#nav {
+
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+}
+
+#nav li:hover a {
+    color: #000;
+    background-color: #ccc;
+    display: inline-block;
+}
+
+#nav .subnav {
+    display: none;
+}
+
+#slider {
+    
+}
+
+#content {
+    
+}
+
+#footer {
+    
+}
